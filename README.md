@@ -1,2 +1,2 @@
-# resume
+# Resume
 Ankit Sahay Resume
